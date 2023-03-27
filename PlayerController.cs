@@ -23,6 +23,8 @@ namespace _Scripts
         private static void OnInputKey(Vector3 dir)
         {
             Debug.Log("test1");
+            Debug.Log("test2");
+            Debug.Log("test3");
         }
     }
 }
