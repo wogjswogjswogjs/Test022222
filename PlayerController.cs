@@ -28,6 +28,7 @@ namespace _Scripts
             Debug.Log("test4");
             Debug.Log("test5");
             Debug.Log("test6");
+            Debug.Log("test7");
         }
     }
 }
