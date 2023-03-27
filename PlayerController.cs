@@ -30,9 +30,13 @@ namespace _Scripts
             Debug.Log("test6");
             Debug.Log("test7");
             Debug.Log("test8");
+
             Debug.Log("test9");
             Debug.Log("test10");
             
+            Debug.Log("test11");
+            Debug.Log("test12");
+
         }
     }
 }
